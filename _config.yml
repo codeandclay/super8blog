@@ -1,22 +1,27 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+permalink:           pretty/
+permalink: /:categories/:year/:title
+# relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Super 8 Blog
+tagline:             'Blogging 8mm'
+description:         'Covering Super 8 filmmaking, tools and news.'
+# url:                 http://lanyon.getpoole.com
 baseurl:             ''
-paginate:            5
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Oliver Denman
+  # url:               https://twitter.com/mdo
+  email:             oliver@therewillbeanimals.com
 
 # Custom vars
 version:             1.0.0
+
+

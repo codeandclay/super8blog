@@ -1,0 +1,9 @@
+---
+layout: {{ layout }}
+title: "{{ title }}"
+description: 
+date: {{ date }}
+category: news, kit, filmmakers, technique, materials, processing
+tags:
+image:
+---
