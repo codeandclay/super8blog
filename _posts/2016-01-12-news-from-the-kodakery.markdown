@@ -8,7 +8,7 @@ tags: [kodak, super8, film, camera]
 image:
 ---
 
-Some interesting information gleamed from Kodak's in-house podcast, the [Kodakery](http://www.kodak.com/ek/US/en/corp/Podcasts/Kodakery/default.htm?CID=go&idhbx=kodakery).
+Some interesting information gleamed from Kodak's in-house podcast, [The Kodakery](http://www.kodak.com/ek/US/en/corp/Podcasts/Kodakery/default.htm?CID=go&idhbx=kodakery).
 
 Firstly, the company is yet to name its forthcoming Super 8 camera. The metal bodied prototype was dubbed "The Octagon", and it is possible that they might go with that.
 
