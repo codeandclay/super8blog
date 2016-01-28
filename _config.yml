@@ -10,7 +10,7 @@ title:               Super 8 Blog
 tagline:             'Blogging 8mm'
 description:         'Covering Super 8 filmmaking, tools and news.'
 url:                 http://super8blog.com
-baseurl:             ''
+baseurl:             'http://super8blog.com'
 gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
