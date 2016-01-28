@@ -3,9 +3,6 @@ no-response-timeout: 10
 build:
  steps:
      - bundle-install
-     # - script:
-     #     name: Run Jekyll doctor
-     #     code: bundle exec jekyll doctor
      - script:
          name: Build Jekyll site
          code: bundle exec jekyll build --trace
