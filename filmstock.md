@@ -39,6 +39,7 @@ Most cartridges are available with a processing service included, though this is
         - Pro8-46 (Fuji Vivid 250D)
         - Pro-47 (Fuji Vivid 500T)
 - <a href="#BWReversal">B&amp;W Reversal</a>
+    - <a href="#AdoxBR">Adox</a>
     - <a href="#KodakBR">Kodak</a>
         - Tri-X Reversal (7266)
     - <a href="#ProBR">Pro 8mm</a>
@@ -188,6 +189,13 @@ Kodak's Vision3 is a modern colour negative emulsion. The Super 8 film is the ex
 
 
 ## <a name="BWReversal" class="page-anchor">Black and White Reversal</a>
+
+### <a name="AdoxBR">Adox</a>
+<dl>
+    <dt><a href="http://www.adox.de/Photo/adox-films-2/adox-pan-x-reverso-super8-2/" target="_blank">ADOX PAN-X Reverso Super8</dt>
+    <dd><blockquote cite="http://www.adox.de/Photo/adox-films-2/adox-pan-x-reverso-super8-2/">ADOX PAN-X Reverso Super8 is a true reversal B&W film which can be run in any Super8 projector right after developing.
+It is our alternative for those seeking a replacement for the discontinued Kodak Plus-X.</blockquote></dd>
+</dl>
 
 ### <a name="KodakBR">Kodak</a>
 <dl>
