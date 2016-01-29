@@ -6,13 +6,6 @@ description: A list of available Super 8 filmstock
 
 <img src="../assets/filmstock/kodakboxes.png" alt="Kodak Super 8mm filmstock packshot">
 
-
-There are many Super 8 stocks to choose from.
-
-Whilst Kodak is the only manufacturer to supply its own emulsions in a Super 8 cartridge, re-packaged films are available from other companies. Some of these films have been cut from other motion picture stocks, whilst others are repurposed still film.
-
-Most cartridges are available with a processing service included, though this is not true for all stocks.
-
 ## Films 
 
 - <a href="#ColourReversal">Colour Reversal</a>
