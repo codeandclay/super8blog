@@ -15,7 +15,7 @@ To all but hardened enthusiasts, Super 8 has been dead in the water for decades.
 
 Speaking to <a href="https://www.youtube.com/watch?v=Cn-AwhYOHZE">tested.com</a>, Kodak spokesperson, Josh Coon, said:
 
-"There's an analogue renaissance. People are excited about vinyl records, craft, they're making things and there's been a resurgence in film.""
+"There's an analogue renaissance. People are excited about vinyl records, craft, they're making things and there's been a resurgence in film."
 
 "[…] Star Wars was shot on film, Jurassic World, Hateful Eight… and across the creative community there's an interest in film. So we wanted to come out with a camera that's built for the filmmakers of today."
 
