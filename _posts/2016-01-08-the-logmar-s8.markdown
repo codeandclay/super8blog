@@ -24,7 +24,7 @@ The metal bodied camera, named the Logmar S-8, features pin registration, digita
 <iframe class="video" src="https://player.vimeo.com/video/129700087?title=0&byline=0&portrait=0" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <br/>
 
-There was a production run of fifty cameras but, unfortunately, there are no plans for a second run. However, the company is now turning to other formats, and there is word of 35mm and 65mm products in development.
+There was a production run of fifty cameras but, unfortunately, there are no plans for a second batch. However, the company is now turning to other formats, and there is word of 35mm and 65mm products in development.
 
 The Logmar S-8 is available from <a href="http://www.pro8mm.com/Merchant5/merchant.mvc?Screen=PROD&Store_Code=01&Product_Code=camera_logmar&Category_Code=S8">Pro 8mm</a>, and costs $5995.
 
