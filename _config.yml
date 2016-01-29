@@ -1,8 +1,7 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty/
-permalink: /:categories/:year/:title
+permalink: /:categories/:year/:title.html
 # relative_permalinks: true
 
 # Setup
