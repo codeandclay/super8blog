@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No small thing!"
-description: Building work is underway at Film Ferrania
+description: Building work underway at Film Ferrania
 date: 2016-01-09T11:03:49+00:00
 category: news
 tags: [film ferrania, film]
