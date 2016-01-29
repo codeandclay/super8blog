@@ -6,6 +6,10 @@ description: A list of available Super 8 filmstock
 
 <img src="../assets/filmstock/kodakboxes.png" alt="Kodak Super 8mm filmstock packshot">
 
+There are many Super 8 stocks to choose from.
+
+Whilst Kodak and Adox are the only manufacturers to supply their own stock in a Super 8 cartridge, re-packaged films are available from other companies. Some of these films have been cut from motion picture stocks, others are repurposed still film.
+
 ## Films 
 
 - <a href="#ColourReversal">Colour Reversal</a>
@@ -33,7 +37,6 @@ description: A list of available Super 8 filmstock
         - Pro-47 (Fuji Vivid 500T)
 - <a href="#BWReversal">B&amp;W Reversal</a>
     - <a href="#AdoxBR">Adox</a>
-        - ADOX PAN-X Reverso Super8
     - <a href="#KodakBR">Kodak</a>
         - Tri-X Reversal (7266)
     - <a href="#ProBR">Pro 8mm</a>
@@ -186,14 +189,12 @@ Kodak's Vision3 is a modern colour negative emulsion. The Super 8 film is the ex
 
 ### <a name="AdoxBR">Adox</a>
 <dl>
-    <dt><a href="http://www.adox.de/Photo/adox-films-2/adox-pan-x-reverso-super8-2/" target="_blank">ADOX PAN-X Reverso Super8</a></dt>
+    <dt><a href="http://www.adox.de/Photo/adox-films-2/adox-pan-x-reverso-super8-2/" target="_blank">ADOX PAN-X Reverso Super8</dt>
     <dd><blockquote cite="http://www.adox.de/Photo/adox-films-2/adox-pan-x-reverso-super8-2/">ADOX PAN-X Reverso Super8 is a true reversal B&W film which can be run in any Super8 projector right after developing.
 It is our alternative for those seeking a replacement for the discontinued Kodak Plus-X.</blockquote></dd>
 </dl>
 
-
 ### <a name="KodakBR">Kodak</a>
-
 <dl>
     <dt>Tri-X Reversal (7266)</dt>
     <dd><blockquote cite="http://motion.kodak.com/motion/products/production/spotlight_on_super_8/super_8mm_products/index.htm">A high-speed, panchromatic, black-and-white film suitable for general interior photography with artificial light. It can also be used in daylight and is particularly useful for sports pictures taken at regular speed or slow motion in weak light. This film is characterized by excellent tonal gradation and sharpness. Process D-94A.</blockquote>
