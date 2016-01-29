@@ -33,6 +33,7 @@ description: A list of available Super 8 filmstock
         - Pro-47 (Fuji Vivid 500T)
 - <a href="#BWReversal">B&amp;W Reversal</a>
     - <a href="#AdoxBR">Adox</a>
+        - ADOX PAN-X Reverso Super8
     - <a href="#KodakBR">Kodak</a>
         - Tri-X Reversal (7266)
     - <a href="#ProBR">Pro 8mm</a>
