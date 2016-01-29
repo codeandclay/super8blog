@@ -24,7 +24,7 @@ a {
 
 @media (min-width: 56em) {
     .sidebar-masthead {
-        /*margin-top: 1rem;*/
+        /*margin-top: 0.5rem;*/
     }
 
 }
@@ -83,11 +83,6 @@ a {
 #banner {
     border-radius: 0px;
     margin-bottom: 0.5rem;
-/*    border-width: 2px;
-    border-top-style: solid;
-    border-bottom-style: solid;
-    border-color: #f0f1f1;
-    border-radius: 0px;*/
 }
 
 .banner-tag  {
