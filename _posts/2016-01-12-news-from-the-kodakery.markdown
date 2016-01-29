@@ -12,7 +12,7 @@ Some interesting information gleamed from Kodak's in-house podcast, [The Kodaker
 
 Firstly, the company is yet to name its forthcoming Super 8 camera. The metal bodied prototype was dubbed "The Octagon", and it is possible that they might go with that.
 
-Also, there are plans for not just one camera but two! The "Octagon" is to be launched as a premium product whilst the rounded corner camera, already seen in Kodak's promotional material, will be launched as a lower priced model.
+Also, there are plans for not just one camera but two! The "Octagon" is to be launched as a premium product whilst the rounded corner camera, seen in Kodak's promotional material, will be launched as a lower priced model.
 
 <img src="{{ site.baseurl }}/assets/kodakreboot/Super_8_Round_399_White.jpg" alt="Kodak Super 8 camera with round edged body">
 
