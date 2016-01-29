@@ -1,3 +1,16 @@
+@font-face {
+    font-family: 'bebas_neue_regularregular';
+    src: url('../../assets/fonts/bebasneue_regular-webfont.eot');
+    src: url('../../assets/fonts/bebasneue_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../assets/fonts/bebasneue_regular-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/bebasneue_regular-webfont.woff') format('woff'),
+         url('../../assets/fonts/bebasneue_regular-webfont.ttf') format('truetype'),
+         url('../../assets/fonts/bebasneue_regular-webfont.svg#bebas_neue_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 .inline-img {
     display: inline;
     float: left;
@@ -77,7 +90,8 @@ a {
 }
 
 #sidebar-title {
-    font-size: 2rem;
+    font-size: 1.5rem;
+    line-height: 0.5rem;
 }
 
 #banner {
@@ -86,6 +100,9 @@ a {
 }
 
 .banner-tag  {
+    font-family: 'bebas_neue_regularregular';
+    font-size: 2rem;
+    line-height: 2rem;
     color: #f1f1f1;
 }
 
