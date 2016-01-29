@@ -192,12 +192,14 @@ Kodak's Vision3 is a modern colour negative emulsion. The Super 8 film is the ex
 
 ### <a name="AdoxBR">Adox</a>
 <dl>
-    <dt><a href="http://www.adox.de/Photo/adox-films-2/adox-pan-x-reverso-super8-2/" target="_blank">ADOX PAN-X Reverso Super8</dt>
+    <dt><a href="http://www.adox.de/Photo/adox-films-2/adox-pan-x-reverso-super8-2/" target="_blank">ADOX PAN-X Reverso Super8</a></dt>
     <dd><blockquote cite="http://www.adox.de/Photo/adox-films-2/adox-pan-x-reverso-super8-2/">ADOX PAN-X Reverso Super8 is a true reversal B&W film which can be run in any Super8 projector right after developing.
 It is our alternative for those seeking a replacement for the discontinued Kodak Plus-X.</blockquote></dd>
 </dl>
 
+
 ### <a name="KodakBR">Kodak</a>
+
 <dl>
     <dt>Tri-X Reversal (7266)</dt>
     <dd><blockquote cite="http://motion.kodak.com/motion/products/production/spotlight_on_super_8/super_8mm_products/index.htm">A high-speed, panchromatic, black-and-white film suitable for general interior photography with artificial light. It can also be used in daylight and is particularly useful for sports pictures taken at regular speed or slow motion in weak light. This film is characterized by excellent tonal gradation and sharpness. Process D-94A.</blockquote>
