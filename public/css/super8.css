@@ -7,6 +7,10 @@
     text-align: center;
 }
 
+a {
+    color: #29a0e2;
+}
+
 @media (min-width: 56em) {
     .masthead-container {
       text-align: left;
@@ -77,26 +81,23 @@
 }
 
 #banner {
-    border-width: 2px;
+    border-radius: 0px;
+    margin-bottom: 0.5rem;
+/*    border-width: 2px;
     border-top-style: solid;
     border-bottom-style: solid;
     border-color: #f0f1f1;
-    border-radius: 0px;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    border-radius: 0px;*/
+}
+
+.banner-tag  {
+    color: #f1f1f1;
 }
 
 #masthead-image {
     height: 36px;
     margin: 0px;
-    border-color: #505050;
-    border-top-style: solid;
-    border-bottom-style: solid;
-    border-width: 2px;
     border-radius: 0px;
-    padding: 0px;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 .page-anchor {
