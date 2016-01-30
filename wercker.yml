@@ -1,5 +1,4 @@
 box: ruby
-box: nodejs
 no-response-timeout: 10
 build:
  steps:
