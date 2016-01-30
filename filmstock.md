@@ -4,13 +4,13 @@ title: "Filmstock"
 description: A list of available Super 8 filmstock
 ---
 
-<img src="../assets/filmstock/kodakboxes.png" alt="Kodak Super 8mm filmstock packshot">
+<img src="../assets/filmstock/kodakboxes.jpg" alt="Kodak Super 8mm filmstock packshot">
 
 There are many Super 8 stocks to choose from.
 
 Whilst Kodak and Adox are the only manufacturers to supply their own stock in a Super 8 cartridge, re-packaged films are available from other companies. Some of these films have been cut from motion picture stocks, others are repurposed still film.
 
-The list comprises Super 8 only, not Double Super 8 or Single 8.
+The list excludes Double Super 8 and Single 8.
 
 ## Films 
 

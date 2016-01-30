@@ -10,7 +10,7 @@ tagline:             'Blogging Super 8mm'
 description:         'Blogging Super 8 filmmaking, tools and news.'
 url:                 http://super8blog.com
 baseurl:             ''
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-press]
 paginate: 5
 paginate_path: "page:num"
 
@@ -23,4 +23,8 @@ author:
 # Custom vars
 version:             1.0.0
 
-
+jekyll-press:
+  exclude: 'atom.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob patterns
+  js_options: {}      # js minifier options
+  css_options: {}     # css minifier options
+  html_options: {}    # html minifier options
