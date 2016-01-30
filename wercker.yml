@@ -1,4 +1,5 @@
 box: ruby
+box: javascript
 no-response-timeout: 10
 build:
  steps:
