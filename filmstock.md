@@ -131,6 +131,8 @@ The list comprises Super 8 only, not Double Super 8 or Single 8.
     <dd><blockquote>Agfachrome RSX-II 200 emulsion on clear polyester carrier 
     </blockquote>
     <a href="http://www.wittner-kinotechnik.de/katalog/04_filmm/download/en_3004.pdf">Technical information</a>
+    <br>
+    <iframe src="https://player.vimeo.com/video/68405828?title=0&byline=0&portrait=0" width="500" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </dd>
 </dl>
 
