@@ -6,7 +6,7 @@ description: A can of rushes, straight back from the lab, has an intoxicating sm
 
 A can of rushes, straight back from the lab, has an intoxicating smell that no harddrive can ever have. Lovers of film will sing about the superlative qualities of the medium and how working with this precious material changes the creative process.
 
-Film almost died. There was a double blow: Hollywood became digital and Kodak was [close to the brink](http://dealbook.nytimes.com/2012/01/19/eastman-kodak-files-for-bankruptcy/?_r=0). Fuji [ceased cine film production](http://www.fujifilm.com/news/n130402.html) in 2013. Industry support for [celulloid filmmaking](http://www.theguardian.com/artanddesign/2011/feb/22/tacita-dean-16mm-film) seemed to be declining.
+Film almost died. Hollywood became digital and Kodak was [close to the brink](http://dealbook.nytimes.com/2012/01/19/eastman-kodak-files-for-bankruptcy/?_r=0). Fuji [ceased cine film production](http://www.fujifilm.com/news/n130402.html) in 2013. Industry support for [celulloid filmmaking](http://www.theguardian.com/artanddesign/2011/feb/22/tacita-dean-16mm-film) seemed to be declining.
 
 I've toyed with the idea of starting a Super 8 blog for probably fifteen years, but I've also felt that the audience has been served adequately by existing resources on the web. Besides, film is dead; isn't it?
 
