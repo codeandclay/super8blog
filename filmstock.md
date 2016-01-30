@@ -10,6 +10,8 @@ There are many Super 8 stocks to choose from.
 
 Whilst Kodak and Adox are the only manufacturers to supply their own stock in a Super 8 cartridge, re-packaged films are available from other companies. Some of these films have been cut from motion picture stocks, others are repurposed still film.
 
+The list comprises Super 8 only, not Double Super 8 or Single 8.
+
 ## Films 
 
 - <a href="#ColourReversal">Colour Reversal</a>
