@@ -10,7 +10,7 @@ image:
 
 A commonly mistaken belief is that film lasts forever. Without proper care, however, a reel may not even last half a lifetime.
 
-Acetate film bases can suffer from vinegar syndrome -- resulting in the deterioation of the film support and damage to the image -- and colour films can suffer from irrevocable fading. Not to mention the combustability of early nitrate stock!
+Acetate film bases can suffer from vinegar syndrome -- decomposition of their chemical structure, resulting in the deterioation of the film support and damage to the image -- and colour films can suffer from irrevocable fading. Not to mention the combustability of early nitrate stock!
 
 There's also the issue of wear and tear. A pristine print can soon be ruined by a bad projector or poor handling.
 
