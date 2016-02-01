@@ -18,7 +18,7 @@ Also, there are plans for not just one camera but two! The "Octagon" is to be la
 
 The are no official figures yet, but [gizmag.com](http://www.gizmag.com/kodak-super-8-movie-camera/41237/) reports that the standard model will cost between USD$400 and $700, whilst the premium model will be priced around $1,000 more.
 
-There's also mention that a Chinese company is marketing a Super 8 film scanner. That's completely mind-blowing news if true!
+There's also mention that a Chinese company is marketing a Super 8 film scanner. That's extremely interesting news if true!
 
 The podcast is available on iTunes or can be listened to on Audible.
 
