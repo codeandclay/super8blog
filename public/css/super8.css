@@ -38,9 +38,11 @@ a {
 @media (min-width: 56em) {
     .sidebar-masthead {
         /*margin-top: 0.5rem;*/
+        padding-bottom: 1rem;
     }
 
 }
+
 
 
 #emblem {
@@ -99,11 +101,8 @@ a {
     margin-bottom: 0.5rem;
 }
 
-.banner-tag  {
-    font-family: 'bebas_neue_regularregular';
-    font-size: 2rem;
-    line-height: 2rem;
-    color: #f1f1f1;
+#banner-tag  {
+    margin-bottom: 0px;
 }
 
 #masthead-image {
@@ -142,7 +141,7 @@ dl {
 .sidebar-nav  h2 {
     padding-left: 1.5rem;
   display: block;
-  padding-top: .5rem;
+  /*padding-top: .5rem;*/
   color: rgba(255,255,255,.6);
 
     font-size: .875rem; /* 15px */
