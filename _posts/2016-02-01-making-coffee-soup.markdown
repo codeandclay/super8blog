@@ -7,7 +7,7 @@ category: technique
 tags: ["caffenol", "coffee", "developing"]
 image:
 ---
-Martha Jurksaitis makes films on Super 8 and 16mm. She processes them by hand.
+Martha Jurksaitis makes films on Super 8 and 16mm. She processes them by hand, using a variety of techniques.
 
 Still photographers may be familiar with [Caffenol](http://www.caffenol.org/). Consisting of baking soda, Vitamin C and instant coffee, it is an eco-friendly alternative to traditional developers. With the right technique and formula, the results can be surprising.
 
