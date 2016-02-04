@@ -2,7 +2,7 @@
 layout: page
 title: "Filmstock"
 description: A list of available Super 8 filmstock
-url: super8blog.com/filmstock.html
+url: filmstock.html
 ---
 
 <img src="../assets/filmstock/kodakboxes.jpg" alt="Kodak Super 8mm filmstock packshot">
