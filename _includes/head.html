@@ -59,7 +59,7 @@
     <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
     <meta content="{{ site.url }}/about/" property="article:author">
   {% endif %}
-  <meta content="{{ site.url }}/{{ site.image }}?123" property="og:image">
+  <meta content="{{ site.url }}/{{ site.image }}?124" property="og:image">
 
   {% if page.categories %}
     {% for category in page.categories limit:1 %}
@@ -80,7 +80,7 @@
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
 {% if page.image %}
-  <meta name="twitter:image" content="{{ site.url }}/{{ site.image }}?123"> 
+  <meta name="twitter:image" content="{{ site.url }}/{{ site.image }}?124"> 
 {% endif %} 
   <!-- end twitter card -->
 
