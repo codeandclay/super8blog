@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: plain-page
 title: About
 description: A can of rushes, straight back from the lab, has an intoxicating smell that no harddrive can ever have.
 ---
