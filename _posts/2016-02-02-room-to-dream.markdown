@@ -20,7 +20,7 @@ The film's title translates to: *Sketch of the Sea*. At first, the film is just 
 
 "When I walked alongside the Côte d’Azur, I noticed military boats. At first sight, there is nothing like this in my film: you see several boats and even a sailing vessel. But the sound tells you that there is much more."
 
-Patrick started making films seven years ago, and already has quite a prolific list of [credits](http://www.imdb.com/name/nm4119296/). As a film enthusiast, he was inspired by the classical Hollywood director, King Vidor, to shoot his own movies:
+Patrick started making films seven years ago, and already has quite a prolific list of [credits](http://www.imdb.com/name/nm4119296/). As a film enthusiast, he was inspired by classical Hollywood director King Vidor to shoot his own movies:
 
 "When you are a Cinephile and read a lot, you’ll naturally feel a need to express your own thoughts. I watched a documentary about King Vidor who, due to his age, could no longer find work in Hollywood. So instead of complaining, he decided to go back to the core of filmmaking." 
 
@@ -46,7 +46,7 @@ His 16mm films, [*Betrachtung der Zeit (Meditation on Time)*](https://vimeo.com/
 
 <iframe src="https://player.vimeo.com/video/112029877?title=0&byline=0&portrait=0" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>
 
-Patrick made *Betrachtung der Zeit* in memory of those he had lost during the year. The camera's subject is a wind swept meadow its grass gone to seed, the land ear-marked for development. A narrator reads the eponymous poem in German:
+Patrick made *Betrachtung der Zeit* in memory of those he had lost during the year. The camera's subject is a wind swept meadow, its grass gone to seed, the land ear-marked for development. A narrator reads the eponymous poem in German:
 
 *No longer are they mine,*  
 *The years that have already gone*.  
@@ -58,7 +58,7 @@ Patrick made *Betrachtung der Zeit* in memory of those he had lost during the ye
 *I thus care for the one,*  
 *Who made eternity.*
 
-At the last line, the frame fills with bright yellow -- the film is fogged, a side effect of the hand processing -- then, when the fogged frames pass, the image is only partially restored: the last several feet are underdeveloped; blackness obscures the edge of the image before enveloping the entire frame. These inconsistencies in the development enforce the sentiments of the verse. The image, like the moment, is lost. Had this conceit been attempted digitally, it would have seemed contrived.
+At the last line, the frame fills with bright yellow -- the film is fogged, a side effect of the hand processing -- then, when the fogged frames pass, the image is only partially restored: the last several feet are underdeveloped; blackness obscures the edge of the image before enveloping the entire frame. These inconsistencies in the development enforce the sentiment of the verse. The image, like the moment, is lost. Had this conceit been attempted digitally, it would have seemed contrived.
 
 Patrick has another film in the works, but does not like to talk about projects before their release. However, he still makes films with the same intentions as he did when he first started:
 
