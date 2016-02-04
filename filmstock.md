@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: plain-page
 title: "Filmstock"
 description: A list of available Super 8 filmstock
 url: filmstock.html
