@@ -26,7 +26,7 @@ Patrick started making films seven years ago, and already has quite a prolific l
 
 "He took a small camera and just shot a remarkable short film on his own in complete artistic freedom. This story gave me the courage to try shooting my first film."
 
-In 2013 Patrick made his first Super 8 film, a short called [*I Went to the Woods Because…*](https://vimeo.com/78308818), based on quostations by HD Thoreau.
+In 2013 Patrick made his first Super 8 film, a short called [*I Went to the Woods Because…*](https://vimeo.com/78308818), based on quotations by HD Thoreau.
 
 "I took my father’s old Quarz Double Super 8 camera from the attic, put in some fresh Czech Fomapan film stock, and literally 'went to the woods'. With the script under my arm, I tried to capture moving images that added something to the beautiful text. I wanted to shoot the film as maybe Thoreau would have shot it if he'd had a movie camera: all mechanic; spring-winded. Like Thoreau who wanted to escape the industrialized mass society of the young USA, I wanted a new kind of artistic expression after years of shooting in digital. It was kind of a liberation to me."
 
@@ -42,7 +42,7 @@ Patrick filmed *Croquis de mer* using Logmar's [S-8]({% post_url 2016-01-08-the-
 
 "The film is called Sea Sketch. Like a drawing, it is simple and therefore allows the spectator enough space for their own associations and interpretations. Film, especially Super 8 film, is perfect for that. The grain and the small imperfections add something poetic you can’t plan. Like a impressionist painting that depicts an elusive moment."
 
-His 16mm films, [*Betrachtung der Zeit (Meditation on Time)*](https://vimeo.com/112029877), [*Vanitas, Vanitatum, et Omnia Vanitas*](https://vimeo.com/album/2886171/video/110697049) and [*I ungdomen*](https://vimeo.com/album/2886171/video/119801827)[^1], illustrate this point perfectly. These films are hand processed and so there are inconsistencies in the image; scratches, fogging, colour shifts. But they do not come across as errors. Instead, they affect the picture in other ways. The processing artefacts become integral to the soul of the work.
+His films, [*Betrachtung der Zeit (Meditation on Time)*](https://vimeo.com/112029877), [*Vanitas, Vanitatum, et Omnia Vanitas*](https://vimeo.com/album/2886171/video/110697049) and [*I ungdomen*](https://vimeo.com/album/2886171/video/119801827)[^1], illustrate this point perfectly. These films are hand processed and so there are inconsistencies in the image; scratches, fogging, colour shifts. But they do not come across as errors. Instead, they affect the picture in other ways. The processing artefacts become integral to the soul of the work.
 
 <iframe src="https://player.vimeo.com/video/112029877?title=0&byline=0&portrait=0" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>
 
