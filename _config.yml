@@ -31,4 +31,4 @@ jekyll-press:
   html_options: {}    # html minifier options
 
 # Site default image
-image: /img/banner4.svg
+image: "/img/siteimage.png"
