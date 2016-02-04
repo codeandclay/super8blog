@@ -11,6 +11,84 @@
 
 }*/
 
+.dateline {
+    margin-bottom: 0.75rem;
+    margin-top: 0px;
+}
+
+.post {
+    margin-bottom: 2rem;
+}
+
+.post-title {
+    margin-bottom: 0px;
+}
+
+.page-title {
+    margin-bottom: 0px;
+}
+
+.post-date {
+    /*margin-bottom: 2em;*/
+    display: inline;
+}
+
+.post-listed {
+    margin-bottom: 4rem;
+}
+
+.social {
+    margin-left: 0.75em;
+    display: inline;
+    text-transform: uppercase;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: 0.75rem;
+}
+
+.social-page {
+    margin-left: 0px;
+    margin-top: 0px;
+    display: inline;
+    text-transform: uppercase;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: 0.75rem;
+}
+
+.social-below-post {
+    /*display: inline;*/
+    text-align: right;
+    text-transform: uppercase;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: 0.75rem;
+    margin-top: 1rem;
+}
+
+.comment {
+    color: #546673;
+}
+
+
+.social-footer {
+    margin-left: 0.75em;
+    display: block;
+    margin-top: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: 1.25rem;
+    margin-bottom: 1em;
+}
+
+
+.twitter {
+    color: #55acee;
+}
+
+.facebook {
+    color: #3c5a99;
+}
+
+
 .inline-img {
     display: inline;
     float: left;
@@ -31,6 +109,16 @@ a {
 }
 
 #masthead-image {
+    position: relative;
+    display: inline-block;
+}
+
+#twitter-masthead {
+    position: relative;
+    display: inline-block;
+}
+
+#facebook-masthead {
     position: relative;
     display: inline-block;
 }
@@ -111,6 +199,18 @@ a {
     border-radius: 0px;
 }
 
+#facebook-masthead {
+    height: 36px;
+    margin: 0px;
+    border-radius: 0px;
+}
+
+#twitter-masthead {
+    height: 36px;
+    margin: 0px;
+    border-radius: 0px;
+}
+
 .page-anchor {
     color: #313131;
 }
@@ -137,6 +237,13 @@ dl {
     }
 }
 
+.article-footer {
+    color: #9a9a9a;
+}
+
+.article-footer a {
+    color: #555;
+}
 
 .sidebar-nav  h2 {
     padding-left: 1.5rem;
@@ -146,6 +253,15 @@ dl {
 
     font-size: .875rem; /* 15px */
 
+}
+
+#sidebar-social {
+    padding-bottom: 0px;
+    /*text-align: center;*/
+}
+
+#sidebar-copyright-notice {
+    padding-top: 1rem;
 }
 
 @media (max-width: 56em) {

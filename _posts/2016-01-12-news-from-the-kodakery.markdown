@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "News From the Kodakery"
-description: 
+description: Kodak is to launch not one but two Super 8 cameras
 date: 2016-01-12T15:00:03+00:00
 category: news
 tags: [kodak, super8, film, camera]

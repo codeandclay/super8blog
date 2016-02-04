@@ -15,7 +15,7 @@ Photographer Chris Tisinger writes in his blog [The Film Photographer's Handbook
 
 <blockquote>Not only does instant coffee work as a B&amp;W film developer, it works amazingly well. I have shot many rolls of film and tested out Caffenol developer mixtures and I have come up with a formula combination that I believe rivals any commercially available film developer. Caffenol is extremely compensating. The highlight development exhausts while shadow development continues giving a nice full range of tonal values. The negatives are sharp and have a slight stain.</blockquote>
 
-The [post](http://thefilmphotographershandbook.blogspot.co.uk/2014/03/caffenol-coolest-b-film-developer-youre.html) is worth the read for anyone interested in trying the developer for themselves.
+(The [post](http://thefilmphotographershandbook.blogspot.co.uk/2014/03/caffenol-coolest-b-film-developer-youre.html) is worth the read for anyone interested in trying the developer for themselves.)
 
 Back to the moving image: Martha Jurksaitis developed her film *Silva Shade* in Caffenol and fixed it with sea salt. The negative was then hand tinted. She recorded her technique in her blog, [Cherry Kino](http://cherrykino.blogspot.co.uk/2013/07/my-new-film-silva-shade.html). The results are wonderfully organic.
 

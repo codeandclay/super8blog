@@ -6,13 +6,14 @@ permalink: /:categories/:year/:title.html
 
 # Setup
 title:               Super 8 Blog
-tagline:             'Blogging Super 8mm'
-description:         'Blogging Super 8 filmmaking, tools and news.'
+tagline:             'A blog about Super 8 filmmaking, tools and news.'
+description:         'Super 8 filmmaking, tools and news.'
 url:                 http://super8blog.com
 baseurl:             ''
-gems: [jekyll-paginate, jekyll-press]
+gems: [jekyll-paginate, jekyll-press, jekyll-auto-image]
 paginate: 5
 paginate_path: "page:num"
+twitter_username: super8blog
 
 # About/contact
 author:
@@ -28,3 +29,6 @@ jekyll-press:
   js_options: {}      # js minifier options
   css_options: {}     # css minifier options
   html_options: {}    # html minifier options
+
+# Site default image
+image: /img/banner4.svg

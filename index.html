@@ -5,16 +5,32 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
+  <div class="post post-listed">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
+    <div class="dateline">
+      <span class="post-date">{{ post.date | date_to_string }}</span>
+      <div class="social">
+        <a class="facebook" href="https://facebook.com/sharer.php?u={{ site.url }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook">SHARE</a>
+        /
+        <a class="twitter" href="https://twitter.com/intent/tweet?text={{ post.description }}&url={{ site.url }}{{ post.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">TWEET</a>
+        /
+        <a class="comment" href="{{ site.baseurl }}{{ post.url }}#disqus_thread">Comment</a>
+      </div>
+    </div>
     {{ post.content }}
+    <div class="social-below-post">
+        <a class="facebook" href="https://facebook.com/sharer.php?u={{ site.url }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook">SHARE</a>
+        /
+        <a class="twitter" href="https://twitter.com/intent/tweet?text={{ post.description }}&url={{ site.url }}{{ post.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">TWEET</a>
+        /
+        <a class="comment" href="{{ site.baseurl }}{{ post.url }}#disqus_thread">Comment</a>
+      </div>
+
+
   </div>
   {% endfor %}
 </div>
