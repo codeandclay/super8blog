@@ -59,7 +59,7 @@
     <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
     <meta content="{{ site.url }}/about/" property="article:author">
   {% endif %}
-  <meta content="{{ page.image }}" property="og:image">
+  <meta content="{{ base.url }}{{ site.image }}" property="og:image">
 
   {% if page.categories %}
     {% for category in page.categories limit:1 %}
