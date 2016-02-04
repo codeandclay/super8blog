@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Room to Dream"
-description: Filmmaker Patrick Mueller makes films that would be best described as meditative. He shoots on Super 8 and 16mm.
+description: Filmmaker Patrick Mueller makes films that would be best described as meditative.
 date: 2016-02-02T21:19:23+00:00
 category: filmmakers
 tags: ["Patrick Mueller","Logmar","16mm","hand processing"]

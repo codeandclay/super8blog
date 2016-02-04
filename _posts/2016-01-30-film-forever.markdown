@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Film Forever"
-description: A commonly mistaken belief is that film lasts forever. Without proper care, however, a reel may not even last half a lifetime.
+description: A commonly mistaken belief is that film lasts forever.
 date: 2016-01-18T17:59:22+00:00
 category: materials
 tags: ["preservation","vinegar-syndrome","film","acetate","nitrate"]
