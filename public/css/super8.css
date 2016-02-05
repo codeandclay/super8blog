@@ -11,6 +11,11 @@
 
 }*/
 
+body {
+    -webkit-font-smoothing: antialiased;
+}
+
+
 .dateline {
     margin-bottom: 0.75rem;
     margin-top: 0px;
@@ -34,7 +39,7 @@
 }
 
 .post-listed {
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
 }
 
 .social {
