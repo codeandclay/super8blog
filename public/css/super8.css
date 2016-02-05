@@ -45,13 +45,30 @@
     font-size: 0.75rem;
 }
 
+.social a {
+    text-decoration: none;
+}
+
+
+.underline {
+    text-decoration: none;
+}
+
+a:hover > .underline {
+    text-decoration: underline;
+}
+
 .social-page {
-    margin-left: 0px;
+    margin-left: 0.75em;
     margin-top: 0px;
     display: inline;
     text-transform: uppercase;
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
     font-size: 0.75rem;
+}
+
+.social-page a {
+    text-decoration: none;
 }
 
 .social-below-post {
@@ -63,10 +80,9 @@
     margin-top: 1rem;
 }
 
-.comment {
-    color: #546673;
+.social-below-post a {
+    text-decoration: none;
 }
-
 
 .social-footer {
     margin-left: 0.75em;
@@ -79,9 +95,31 @@
     margin-bottom: 1em;
 }
 
+.social-footer a {
+    text-decoration: none;
+}
+
+
+.comment {
+    color: #546673;
+}
+
+.comment:before {
+    color: #313131;
+    content: " \\ ";
+}
+
+.comment:before:hover {
+    text-decoration: none;
+}
 
 .twitter {
     color: #55acee;
+}
+
+.twitter:before {
+    color: #313131;
+    content:" \\ ";
 }
 
 .facebook {
@@ -92,6 +130,10 @@
 .inline-img {
     display: inline;
     float: left;
+}
+
+.masthead {
+    margin-bottom: 2rem;
 }
 
 .masthead-container {
