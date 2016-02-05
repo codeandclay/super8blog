@@ -132,8 +132,24 @@ a:hover > .underline {
     float: left;
 }
 
+.sidebar-toggle {
+    border-radius: 0px;
+}
+
+.home-anchor {
+    display: block;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size:0.6rem;
+    /*color: #555;*/
+}
+
 .masthead {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
+    margin-top: 0px;
+    padding-top: 0px;
+    /*background-color: #29a0e2;*/
+    border-bottom-style: none;
+    text-align: center;
 }
 
 .masthead-container {
@@ -236,7 +252,7 @@ a {
 }
 
 #masthead-image {
-    height: 36px;
+    height: 4rem;
     margin: 0px;
     border-radius: 0px;
 }
