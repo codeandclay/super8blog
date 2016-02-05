@@ -12,7 +12,7 @@ Patrick Mueller's films would be best described as meditative. He shoots on Supe
 
 Patrick's latest film is *Croquis de mer*. It consists of just a single shot; two takes, each a reel in length.
 
-<iframe src="https://player.vimeo.com/video/151583576?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>
+<iframe src="https://player.vimeo.com/video/151583576?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p></p>
 
 The film's title translates to: *Sketch of the Sea*. At first, the film is just that. The subject is a tranquil shore on the French Riviera. A white sail on the horizon, the tide lapping the beach, the chirp of cicadas… But soon, the serenity is broken by the drone of jet engines overhead.
 
@@ -44,7 +44,7 @@ Patrick filmed *Croquis de mer* using Logmar's [S-8]({% post_url 2016-01-08-the-
 
 His films, [*Betrachtung der Zeit (Meditation on Time)*](https://vimeo.com/112029877), [*Vanitas, Vanitatum, et Omnia Vanitas*](https://vimeo.com/album/2886171/video/110697049) and [*I ungdomen*](https://vimeo.com/album/2886171/video/119801827)[^1], illustrate this point perfectly. These films are hand processed and so there are inconsistencies in the image; scratches, fogging, colour shifts. But they do not come across as errors. Instead, they affect the picture in other ways. The processing artefacts become integral to the soul of the work.
 
-<iframe src="https://player.vimeo.com/video/112029877?title=0&byline=0&portrait=0" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>
+<iframe src="https://player.vimeo.com/video/112029877?title=0&byline=0&portrait=0" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p></p>
 
 Patrick made *Betrachtung der Zeit* in memory of those he had lost during the year. The camera's subject is a wind swept meadow, its grass gone to seed, the land ear-marked for development. A narrator reads the eponymous poem in German:
 

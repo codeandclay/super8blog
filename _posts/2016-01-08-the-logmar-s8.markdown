@@ -20,9 +20,9 @@ They worked on the idea for two years before the first functioning prototype was
 The metal bodied camera, named the Logmar S-8, features pin registration, digital audio and digital viewfinder, as well as wireless connectivity! The camera creates its own WiFi hotspot so that it can be controlled using smartphones and other such devices.
 
 <iframe class="video" src="https://player.vimeo.com/video/101753821?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<br/>
+<p></p>
 <iframe class="video" src="https://player.vimeo.com/video/129700087?title=0&byline=0&portrait=0" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<br/>
+<p></p>
 
 There was a production run of fifty cameras but, unfortunately, there are no plans for a second batch. However, the company is now turning to other formats, and there is word of 35mm and 65mm products in development.
 
