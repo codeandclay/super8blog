@@ -10,7 +10,7 @@ image:
 
 Once in a while, as if checking in on an elderly neighbour and fearing the worst, I pay a visit to Bolex's website. When the page loads, I breathe a sigh of relief. There's comfort in knowing the company is still with us.
 
-In 2012, Bolex licensed its name to the makers of the 'Digital Bolex'; a retro looking 2K camera. But the company is more than just a trademark: it still produces 16mm cameras -- albeit on special order -- though business is a little on the lean side these days.
+In 2012, Bolex licensed its name to the makers of the 'Digital Bolex'; a retro looking 2K camera. But the company is more than just a trademark: it still produces 16mm cameras -- albeit on special order -- though the business is a little on the lean side these days.
 
 Otello Diotallevi is Bolex's last employee (well, technically he's retired) and the subject of a film by Alexandre Favre.
 
