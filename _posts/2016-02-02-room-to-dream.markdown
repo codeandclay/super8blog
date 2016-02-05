@@ -8,7 +8,7 @@ tags: ["Patrick Mueller","Logmar","16mm","hand processing"]
 image:
 ---
 
-Patrick Mueller makes films that would be best described as meditative. He shoots on Super 8 and 16mm. Sometimes he soups his footage by hand. His processing techniques are far from exact; imperfections are scattered across his frames, but they are richer for it.
+Patrick Mueller's films would be best described as meditative. He shoots on Super 8 and 16mm. Sometimes he soups his footage by hand. His processing techniques are far from exact; imperfections are scattered across his frames, but they are richer for it.
 
 Patrick's latest film is *Croquis de mer*. It consists of just a single shot; two takes, each a reel in length.
 
