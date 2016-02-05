@@ -1,0 +1,5 @@
+<nav> 
+    <a class="nav-item" href="{{ site.baseurl }}/" {% if page.url == site.baseurl %} active{% endif %}><span class="underline">HOME</span></a>
+    <a class="nav-item" href="{{ site.baseurl }}/about.html" {% if page.url == "{{ site.baseurl }}/about.html" %} active{% endif %}><span class="underline">ABOUT</span></a>
+    <a class="nav-item" href="{{ site.baseurl }}/filmstock.html" {% if page.url == "{{ site.baseurl }}/filmstock.html" %} active{% endif %}><span class="underline">FILMSTOCK</span></a>
+</nav> 
