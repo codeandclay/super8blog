@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Metering With the iPhone"
-description: 
+description: "Did you know you can use your iPhone as a light meter?"
 date: 2016-02-11T22:32:29+00:00
 category: kit
 tags: ["iPhone","tools","light meters"]
