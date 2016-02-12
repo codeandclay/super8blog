@@ -14,7 +14,7 @@ Here's a surprise. You can use your iPhone as a lightmeter. I tried out [Lux](ht
 <div class="caption">Cinemeter II showing false-color controls
 </div>
 
-Cine Meter developer Adam Wilt states:
+Cine Meter developer Adam Wilt [states](http://adamwilt.com/cinemeterii/index.html):
 <blockquote>Cine Meter II is inspired by the original Cinemeter II exposure system, a digital/analog light meter designed for cinematographers by Thomas Denove and William Blowers.<br/><br/>
 
 Cinemeter II has separate dials for ISO, FPS, and shutter angle. A row of white flip switches lets you include compensation for an 85 filter (for shooting tungsten-balanced film stock in daylight) as well as ND filters from .3 to .9. It was (and is) truly a light meter created by cinematographers for cinematographers – and they did it nearly a quarter of a century ago. Cinemeter II won Denove and Blowers a Technical Academy Award in 1990.</blockquote>  
