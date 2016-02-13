@@ -213,9 +213,9 @@ nav {
 
 .nav-hr {
     margin-top: 0px;
-    margin-bottom: 3.5rem;
-  color: #7a7a7a;
+    margin-bottom: 1.5rem;
   border-width: 1px;
+  border-color: #fff;
 }
 
 
