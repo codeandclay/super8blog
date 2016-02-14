@@ -33,7 +33,11 @@ title: Home
                                     height=400');"><span class="underline">TWEET</span></a><a class="comment" href="{{ site.baseurl }}{{ post.url }}#disqus_thread"><span class="underline">Comment</span></a>
       </div>
     </div>
+    {% if forloop.first %}
     {{ post.content }}
+    {% else %}
+    {{ post.content }}
+    {% endif %}
     <div class="social-below-post">
         <a class="facebook" href="https://facebook.com/sharer.php?u={{ site.url }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook" onclick="window.open(this.href,'targetWindow',
                                    'toolbar=no,

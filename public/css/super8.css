@@ -35,7 +35,7 @@ nav a + a:before {
 }
 
 .dateline {
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
     margin-top: 0px;
 }
 
@@ -173,7 +173,7 @@ img {
     text-align: center;
     font-size: 0.75rem;
     margin-bottom: 1.5rem;
-    margin-top: -1.5rem;
+    margin-top: -1.75rem;
     font-style: italic;
     padding-top: 1rem;
 
@@ -199,7 +199,6 @@ img {
 }
 
 nav {
-    margin-bottom: 2rem;
     text-align: left;
 }
 
@@ -208,8 +207,15 @@ nav {
     display: inline;
     text-transform: uppercase;
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     color: #29a0e2;
+}
+
+.nav-hr {
+    margin-top: 0px;
+    margin-bottom: 1.5rem;
+  border-width: 1px;
+  border-color: #fff;
 }
 
 
@@ -222,9 +228,11 @@ nav {
     color: #303030;
 }
 
+.masthead-wrap {
+}
 
 .masthead {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     padding-bottom: 0px;
     margin-top: 0px;
     padding-top: 0px;
@@ -235,6 +243,12 @@ nav {
 
 .masthead-container {
     text-align: left;
+}
+
+
+blockquote {
+    margin-top: 1.75rem;
+    margin-bottom: 1.75rem;
 }
 
 a {
