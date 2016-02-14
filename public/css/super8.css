@@ -35,7 +35,7 @@ nav a + a:before {
 }
 
 .dateline {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
     margin-top: 0px;
 }
 
@@ -173,7 +173,7 @@ img {
     text-align: center;
     font-size: 0.75rem;
     margin-bottom: 1.5rem;
-    margin-top: -1.75rem;
+    margin-top: -2rem;
     font-style: italic;
     padding-top: 1rem;
 
