@@ -12,7 +12,7 @@ Chris Gavin's films contain strong graphical elements. In his 8mm work, the film
 
 He shoots anamorphically but does not limit himself to the edges of the screen. Using a homemade scanner, he overscans his frames to reveal sprocket holes and a dirt rimmed gate.
 
-In *Wall of Death* he presents strips of sequential frames that, together with a rumbling sound track (originated from a binaural recording by [The London Sound Survey's](http://www.soundsurvey.org.uk/index.php/survey/post/motorcycle_wall_of_death/) Ian Rawes), mimic the frenetic display of the gravity defying motorcycles. 
+In *Wall of Death* he presents strips of sequential frames that, together with a rumbling sound track, mimic the frenetic display of the gravity defying motorcycles. 
 
 <iframe src="https://player.vimeo.com/video/69736803" width="500" height="213" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
