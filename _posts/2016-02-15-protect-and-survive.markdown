@@ -12,11 +12,11 @@ Chris Gavin's films contain strong graphical elements. In his 8mm work, the film
 
 He shoots anamorphically but does not limit himself to the edges of the screen. Using a homemade scanner, he overscans his frames to reveal sprocket holes and a dirt rimmed gate.
 
-In *Wall of Death* he presents strips of sequential frames that, together with a rumbling sound track, mimic the frenetic display of the gravity defying motorcycles. 
+In *Wall of Death* he presents strips of sequential frames that, together with a rumbling sound track, mimic the frenetic display of the film's subject -- the gravity defying bikers -- as they race around a motordrome.
 
 <iframe src="https://player.vimeo.com/video/69736803" width="500" height="213" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-*The Secret Nuclear Bunker* evokes [Protect and Survive](https://www.youtube.com/watch?v=ziFOX6HPr24), a public information campaign from Cold War Britain. But the [caffenol]({% post_url 2016-02-01-making-coffee-soup %}) soaked footage suggests a world where the bombs have already dropped.
+*The Secret Nuclear Bunker* takes a look inside a disused fallout bunker beneath the Essex countryside. It evokes [Protect and Survive](https://www.youtube.com/watch?v=ziFOX6HPr24), a public information campaign from Cold War Britain, but the [caffenol]({% post_url 2016-02-01-making-coffee-soup %}) soaked footage suggests a world where the bombs have already dropped.
 
 <iframe src="https://player.vimeo.com/video/92366230" width="500" height="212" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
