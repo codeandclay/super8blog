@@ -33,11 +33,49 @@ title: Home
                                     height=400');"><span class="underline">TWEET</span></a><a class="comment" href="{{ site.baseurl }}{{ post.url }}#disqus_thread"><span class="underline">Comment</span></a>
       </div>
     </div>
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- MainColumnGoogleAd -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-4147019962626069"
+         data-ad-slot="1123288031"
+         data-ad-format="auto"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
     {% if forloop.first %}
     {{ post.content }}
+
+        <div class="social-below-post">
+        <a class="facebook" href="https://facebook.com/sharer.php?u={{ site.url }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook" onclick="window.open(this.href,'targetWindow',
+                                   'toolbar=no,
+                                    location=no,
+                                    status=no,
+                                    menubar=no,
+                                    scrollbars=yes,
+                                    resizable=yes,
+                                    width=600,
+                                    height=400');"><span class="underline">SHARE</span></a><a class="twitter" href="https://twitter.com/intent/tweet?text={{ post.description }}&url={{ site.url }}{{ post.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter" onclick="window.open(this.href,'targetWindow',
+                                   'toolbar=no,
+                                    location=no,
+                                    status=no,
+                                    menubar=no,
+                                    scrollbars=yes,
+                                    resizable=yes,
+                                    width=600,
+                                    height=400');"><span class="underline">TWEET</span></a><a class="comment" href="{{ site.baseurl }}{{ post.url }}#disqus_thread"><span class="underline">Comment</span></a>
+      </div>
+
+
+  </div>
+
+
+
     {% else %}
     {{ post.content }}
-    {% endif %}
+
     <div class="social-below-post">
         <a class="facebook" href="https://facebook.com/sharer.php?u={{ site.url }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook" onclick="window.open(this.href,'targetWindow',
                                    'toolbar=no,
@@ -60,6 +98,7 @@ title: Home
 
 
   </div>
+  {% endif %}
   {% endfor %}
 </div>
 
