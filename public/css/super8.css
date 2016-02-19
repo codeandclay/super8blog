@@ -41,7 +41,7 @@ nav a + a:before {
 
 @media (max-width: 56em) {
     .dateline {
-        margin-bottom: 1em;
+        margin-bottom: 0px;
     }
 }
 
