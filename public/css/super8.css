@@ -36,7 +36,13 @@ nav a + a:before {
 
 .dateline {
     margin-bottom: 1rem;
-    margin-top: 0px;
+    margin-top: 0px;   
+}
+
+@media (max-width: 56em) {
+    .dateline {
+        margin-bottom: 1em;
+    }
 }
 
 .post {
