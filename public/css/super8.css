@@ -39,11 +39,6 @@ nav a + a:before {
     margin-top: 0px;   
 }
 
-@media (max-width: 56em) {
-    .dateline {
-        margin-bottom: 0px;
-    }
-}
 
 .post {
     margin-bottom: 2rem;
