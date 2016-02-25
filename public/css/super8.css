@@ -15,6 +15,59 @@
     margin-top: 2rem;
 }
 
+.advert {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 4rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: #f5f5f5;
+/*    border-color: #eee;
+    border-width: 1px;
+    border-style: solid;*/
+}
+
+@media (max-width: 56em) {
+    .advert {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+}
+
+.advert img {
+    display: inline-block;
+    width: 100%;
+    border-radius: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.advert .ad-head {
+    font-style: italic;
+    color: #9a9a9a;
+    margin-bottom: 1.5rem;
+}
+
+.advert .ad-body {
+    text-align: left;
+}
+
+.ad-body h1 {
+    margin-top: 1rem;
+}
+
+.ad-body .lede {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.ad-body p {
+}
+
 body {
     -webkit-font-smoothing: antialiased;
 }
