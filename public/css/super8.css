@@ -35,6 +35,8 @@
     .advert {
         margin-left: 0px;
         margin-right: 0px;
+        padding-left: 1rem;
+        padding-right: 1rem;
     }
 }
 
