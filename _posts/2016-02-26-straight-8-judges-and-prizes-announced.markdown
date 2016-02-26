@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Straight 8 Judges and Prizes Announced"
-description: @straight8 2016 judges and prizes announced
+description: "@straight8 2016 judges and prizes announced"
 date: 2016-02-26T09:44:34+00:00
 category: news
 tags: ["straight8","filmmaking","competitions"]
@@ -21,4 +21,4 @@ There's also news of prizes. *straight 8* shooters have a chance of winning:
 
 Channel 4 will also select three entries for its *Random Acts* strand.
 
-As mentioned previously, the registration deadline is drawing close. Filmmakers have until midnight PST, Monday 29th February to [enter](http://www.straight8.net/enter/).
+As mentioned [previously]({% post_url 2016-02-25-straight-8-deadline-approaches %}), the registration deadline is drawing close. Filmmakers have until midnight PST, Monday 29th February to [enter](http://www.straight8.net/enter/).
