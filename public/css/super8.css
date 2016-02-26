@@ -48,7 +48,11 @@
     margin: 0px;
 }
 
-.advert .ad-head {
+.ad-head {
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
     font-style: italic;
     color: #9a9a9a;
     margin-bottom: 1rem;
