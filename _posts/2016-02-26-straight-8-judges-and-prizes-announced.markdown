@@ -8,7 +8,7 @@ tags: ["straight8","filmmaking","competitions"]
 image:
 ---
 
-The organisers of [*straight 8*](http://www.straight8.net/) have just announced this year's judging line-up.
+The organisers of [*straight 8*](http://www.straight8.net/) have announced this year's judging line-up.
 
 The competition jury will include three-time BAFTA winner director, writer and producer Asif Kapadia (Senna, Amy), double Oscar® nominated cinematographer Ed Lachman (Carol, Far From Heaven), Channel 4’s Random Acts commissioning editor, Pegah Farahmand, Altitude Film Distribution’s Head of Distribution Hamish Moseley, and chairing the jury, film critic and author, Jason Solomons.
 
