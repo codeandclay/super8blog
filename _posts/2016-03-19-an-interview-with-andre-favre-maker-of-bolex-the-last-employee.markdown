@@ -8,7 +8,7 @@ tags: ["bolex","16mm","cameras"]
 image:
 ---
 
-Bolex is an anachronism; a maker of clockwork cameras in the digital age. Though mass production has long ceased, the company still supplies spring and motor driven versions of its famous H16 camera; [hand-built to order](http://www.bolex.ch/NEW/?p=6).
+Bolex is an anachronism; a maker of clockwork cameras in the digital age. Though mass production has long ceased, the company still builds spring and motor driven versions of its famous H16 camera; [hand-built to order](http://www.bolex.ch/NEW/?p=6).
 
 Bolex was once the largest employer in French Switzerland but operations have scaled down somewhat in recent years. Although officially retired and now working part-time, Otello Diotallevi is the company's last employee.
 
