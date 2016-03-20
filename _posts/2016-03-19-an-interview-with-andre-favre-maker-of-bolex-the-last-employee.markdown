@@ -44,7 +44,7 @@ In 1930 Bolex was bought by Paillard. Founded in 1840, Paillard was known for pr
 
 Following five years of reasearch and development the H16 camera was born. The first H16 used the same spring as Paillard's gramaphone."
 
-<img src="{{ site.baseurl }}/assets/favre/h16_plans.jpg" alt="Plans for the Bolex H16">
+<img src="{{ site.baseurl }}/assets/favre/H16_plans.jpg" alt="Plans for the Bolex H16">
 
 "In my opinion, the success of the Bolex cameras is mostly due to Paillard's watch-maker expertise. This is why my documentary focuses only on the Paillard Bolex company from 1930 to 1970. It is during that period that Paillard produced the iconic H16 and the whole family of cameras and projectors: the H8, B8, C8, D8L, 150 Super; and the projectors G, M8, S221, Multimatic to name a few.
 
