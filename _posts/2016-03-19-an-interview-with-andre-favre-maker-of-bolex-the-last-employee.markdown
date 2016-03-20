@@ -10,7 +10,7 @@ image:
 
 Bolex is an anachronism; a maker of clockwork cameras in the digital age. Though mass production has long ceased, the company still supplies spring and motor driven versions of its famous H16 camera; [hand-built to order](http://www.bolex.ch/NEW/?p=6).
 
-Bolex was once the largest employer in the French speaking part of Switzerland but operations have scaled down somewhat in recent years. Although officially retired and now working part-time, Otello Diotallevi is the company's last employee.
+Bolex was once the largest employer in French Switzerland but operations have scaled down somewhat in recent years. Although officially retired and now working part-time, Otello Diotallevi is the company's last employee.
 
 I mentioned [*Bolex, The Last Employee*](https://vimeo.com/150185992) by Alexandre Favre in a [previous post]({% post_url 2016-02-05-the-last-employee %}). Here, Alexandre talks about the making of the film.
 
