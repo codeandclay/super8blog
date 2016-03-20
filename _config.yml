@@ -6,7 +6,7 @@ permalink: /:categories/:year/:title.html
 
 # Setup
 title:               Super 8 Blog
-tagline:             'A blog about Super 8 filmmaking, tools and news.'
+tagline:             'A blog about Super 8: filmmaking, tools and news.'
 description:         'Super 8 filmmaking, tools and news.'
 url:                 http://super8blog.com
 baseurl:             ''
