@@ -12,7 +12,7 @@ Bolex is an anachronism; a maker of clockwork cameras in the digital age. Though
 
 Bolex was once the largest employer in French Switzerland but operations have been scaled down somewhat in recent years. Although officially retired and now working part-time, Otello Diotallevi is the company's last employee.
 
-I mentioned [*Bolex, The Last Employee*](https://vimeo.com/150185992) by Alexandre Favre in a [previous post]({% post_url 2016-02-05-the-last-employee %}). Here, Alexandre talks about his work on the film.
+I mentioned [*Bolex, The Last Employee*](https://vimeo.com/150185992) by Alexandre Favre in a [previous post]({% post_url 2016-02-05-the-last-employee %}). Here, Alexandre talks about the company and his work on the film.
 
 <img src="{{ site.baseurl }}/assets/favre/bolex_reporter.jpg" alt="Cover of Bolex Reporter magazine. Summer 1960. 35 cents.">
 
