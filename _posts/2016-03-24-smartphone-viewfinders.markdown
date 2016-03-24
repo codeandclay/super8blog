@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smartphone Viewfinders"
-description: "Remarkably, a smartphone can make a good substitute for a traditional viewfinder. @super8blog"
+description: "Remarkably, a smartphone can make a good substitute for a traditional viewfinder."
 date: 2016-03-24T22:15:53+00:00
 category: kit
 tags: ["smartphone","iOS","Android","tools"]
