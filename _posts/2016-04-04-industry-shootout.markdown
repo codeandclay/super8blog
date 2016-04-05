@@ -14,4 +14,4 @@ Presented by the [APA](http://www.a-p-a.net){:target="_blank"} and [Creature of 
 
 <img src="{{ site.baseurl }}/assets/shootout2016poster.jpeg" alt="Straight 8 Industry Shootout poster">
 
-Registration closes at the end of April. Entrants have until June to submit their films. Screenings will take place on June 23. [Enter here.](http://www.straight8.net/shootout){:target="_blank"}
+Registration closes at the end of April. Entrants have until June to submit their films. Screenings will take place on June 23. Entry details [here.](http://www.straight8.net/shootout){:target="_blank"}
