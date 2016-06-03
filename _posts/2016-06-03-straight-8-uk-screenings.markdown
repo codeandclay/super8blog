@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Straight 8 UK Screenings"
-description: "Straight 8 is coming to London on the 5th and 12th of June. Watch a teaser and find out how to get tickets"
+description: "Straight 8 is coming to London on the 5th and 12th of June. Ticket info and teaser…"
 date: 2016-06-03T21:45:44+01:00
-category: news, kit, filmmakers, technique, materials, processing
+category: news
 tags: ["straight 8", "competition"]
 image:
 ---
