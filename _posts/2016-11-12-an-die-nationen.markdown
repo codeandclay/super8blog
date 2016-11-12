@@ -11,7 +11,7 @@ This Sunday is Remembrance Day.
 
 One hundred years have passed since the start of the First World War. There are surely few alive who experienced the time first hand. The two great wars of the twentieth century are fast vanishing to history.
 
-[Patrick Müller]({% post_url 2016-02-02-room-to-dream %}) -- in his usual style; his long static shots and minimal audio -- conveys a sense of deep time; a war that happened in the distant past. He also conveys the haunting idea that the horrors of war are inevitably forgotten.
+In _An Die Nationen_,  [Patrick Müller]({% post_url 2016-02-02-room-to-dream %}) conveys a sense of deep time. The lessons of the First World War are being lost to the distant past.
 
 <iframe src="https://player.vimeo.com/video/171769857?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p></p>
 
