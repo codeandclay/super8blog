@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Die Nationen"
-description: 
+description: "An Die Nationen. A film by Patrick Müller."
 date: 2016-11-12T23:01:40+00:00
 category: filmmakers
 tags: ["super 8","4k"]
