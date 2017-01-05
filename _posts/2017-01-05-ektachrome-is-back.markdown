@@ -10,7 +10,7 @@ image: "http://www.super8blog.com/assets/images/ektachrome.jpg"
 
 Kodak is planning to bring back Ektachrome.
 
-Rochester's lineup has been missing a reversal filmstock in recent years and this exciting news demonstrates that the company hasn't lost its dedication to film.
+The company's lineup has been missing a reversal filmstock in recent years and this exciting news demonstrates that Kodak hasn't lost its dedication to film.
 
 Kodak will manufacture the stock in 35mm and Super 8 formats. It is expected to become available towards the end of 2017.
 
