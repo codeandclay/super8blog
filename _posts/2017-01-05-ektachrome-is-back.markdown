@@ -5,7 +5,7 @@ description: 'A reversal of fortunes. Kodak plans to reintroduce Ektachrome!'
 date: 2017-01-05T18:57:52+00:00
 category: news
 tags: ["ektachrome", "reversal", "stock"]
-image: "{{ site.baseurl }}/assets/images/ektachrome.jpg"
+image: "http://www.super8blog.com/assets/images/ektachrome.jpg"
 ---
 
 Kodak is planning to bring back Ektachrome.
