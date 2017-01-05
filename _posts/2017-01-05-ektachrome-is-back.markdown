@@ -4,7 +4,7 @@ title: "Ektachrome is back!"
 description: 'A reversal of fortunes. Kodak plans to reintroduce Ektachrome!'
 date: 2017-01-05T18:57:52+00:00
 category: news
-tags: ektachrome, reversal, stock
+tags: ["ektachrome", "reversal", "stock"]
 image: "{{ site.baseurl }}/assets/images/ektachrome.jpg"
 ---
 
