@@ -10,7 +10,7 @@ tagline:             'A blog about Super 8: filmmaking, tools and news.'
 description:         'Super 8 filmmaking, tools and news.'
 url:                 http://super8blog.com
 baseurl:             ''
-gems: [jekyll-paginate, jekyll-press, jekyll-auto-image]
+gems: [jekyll-paginate, jekyll-auto-image]
 paginate: 5
 paginate_path: "page:num"
 twitter_username: super8blog
@@ -24,11 +24,11 @@ author:
 # Custom vars
 version:             1.0.0
 
-jekyll-press:
-  exclude: 'atom.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob patterns
-  js_options: {}      # js minifier options
-  css_options: {}     # css minifier options
-  html_options: {}    # html minifier options
+# jekyll-press:
+#   exclude: 'atom.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob patterns
+#   js_options: {}      # js minifier options
+#   css_options: {}     # css minifier options
+#   html_options: {}    # html minifier options
 
 # Site default image
 image: "img/siteimage.png"
